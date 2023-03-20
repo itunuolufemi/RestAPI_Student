@@ -16,6 +16,6 @@ public class StudentController {
 
     public String getMyName(){
 
-        return "Let's build some crazy web application, hehehe!";
+        return "Let's build some beautiful web application!";
     }
 }
